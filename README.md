@@ -2,6 +2,9 @@
 
 Công cụ này tôi vẫn chưa thể hoàn chỉnh nó vẫn sẽ xuất hiện lỗi trong quá trình sử dụng.
 
+# Truy cập nhanh #
+`https://vinh40945-prog.github.io/Vinhos-5web/`
+
 **cần cài đặt bộ thư viện sau**
 ```bash
 pip install pygame pyperclip opencv-python numpy
