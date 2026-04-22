@@ -4,8 +4,11 @@ Công cụ này tôi vẫn chưa thể hoàn chỉnh nó vẫn sẽ xuất hiệ
 
 # Truy cập nhanh #
 `https://vinh40945-prog.github.io/VinhOS-6.0/`
+
 *đây là phiên bản mới nhất*
+
 có thêm tính năng share
+
 khi nhập nội dung và có thể chia sẽ cho người khác
 
 **cần cài đặt bộ thư viện sau**
