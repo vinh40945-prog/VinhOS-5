@@ -36,7 +36,7 @@ CTRL + Click `(bắt buộc phải chọn từ 2 trở lên để group)`
 
 # START #
 
-sau khi đã chỉnh sửa và thêm hiệu ứng. Ấn esc để quay lai5 menu chính và ấn start để bắt đầu trình chiếu.
+sau khi đã chỉnh sửa và thêm hiệu ứng. Ấn esc để quay lại menu chính và ấn start để bắt đầu trình chiếu.
 
 **Phím tắt**
 
@@ -46,7 +46,7 @@ BKSP `(Trình chiếu lại)`
 
 CTRL + A `(clear tạm thời)`
 
-*lưu ý: nó chỉ xoá chữ tạm thời có trên màn hình, vẫn có thể ấn SPACE để tiếp tục*\
+*lưu ý: nó chỉ xoá chữ tạm thời có trên màn hình, vẫn có thể ấn SPACE để tiếp tục*
 
 ESC `để trở về menu`
 
