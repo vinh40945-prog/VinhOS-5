@@ -3,7 +3,7 @@
 Công cụ này tôi vẫn chưa thể hoàn chỉnh nó vẫn sẽ xuất hiện lỗi trong quá trình sử dụng.
 
 # Truy cập nhanh #
-`https://vinh40945-prog.github.io/Vinhos-5web/`
+`https://vinh40945-prog.github.io/VinhOS-6.0/`
 
 **cần cài đặt bộ thư viện sau**
 ```bash
