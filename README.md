@@ -7,7 +7,9 @@ Công cụ này tôi vẫn chưa thể hoàn chỉnh nó vẫn sẽ xuất hiệ
 
 # trên thiết bị di động #
 
-để chỉnh sửa văn bản hoặc thêm hiệu ứng cần ấn giữ vào chứ
+để chỉnh sửa văn bản hoặc thêm hiệu ứng cần ấn giữ vào chữ
+
+# Thông tin cập nhật #
 
 *đây là phiên bản mới nhất*
 
