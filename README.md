@@ -11,7 +11,9 @@ Công cụ này tôi vẫn chưa thể hoàn chỉnh nó vẫn sẽ xuất hiệ
 
 # Thông tin cập nhật #
 
-*đây là phiên bản mới nhất*
+*đây không phải là phiên bản mới nhất, bản mới nhất sẽ được cập nhật tại web*
+
+`https://vinh40945-prog.github.io/VinhOS-6.1/`
 
 có thêm tính năng share
 
