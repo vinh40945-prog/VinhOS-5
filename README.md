@@ -3,7 +3,7 @@
 Công cụ này tôi vẫn chưa thể hoàn chỉnh nó vẫn sẽ xuất hiện lỗi trong quá trình sử dụng.
 
 # Truy cập nhanh #
-`https://vinh40945-prog.github.io/VinhOS-6.1/`
+`https://vinh40945-prog.github.io/VinhOS-6.1.1/`
 
 # trên thiết bị di động #
 
@@ -13,7 +13,7 @@ Công cụ này tôi vẫn chưa thể hoàn chỉnh nó vẫn sẽ xuất hiệ
 
 *đây không phải là phiên bản mới nhất, bản mới nhất sẽ được cập nhật tại web*
 
-`https://vinh40945-prog.github.io/VinhOS-6.1/`
+`https://vinh40945-prog.github.io/VinhOS-6.1.1/`
 
 có thêm tính năng share
 
