@@ -2,8 +2,15 @@
 
 Công cụ này tôi vẫn chưa thể hoàn chỉnh nó vẫn sẽ xuất hiện lỗi trong quá trình sử dụng.
 
-# Truy cập nhanh #
-`https://vinh40945-prog.github.io/VinhOS-6.1.2/`
+# PHIÊN BẢN WEB #
+https://vinh40945-prog.github.io/VinhOS-7.0-BETA/
+
+đây sẽ là phiên bản mà tôi sẽ lên ý tưởng và cập nhật thường xuyên nhất
+đã thêm các tính năng mới
+
+- chia sẽ nội dung
+
+- Trình chiếu tự động
 
 # trên thiết bị di động #
 
@@ -12,8 +19,6 @@ Công cụ này tôi vẫn chưa thể hoàn chỉnh nó vẫn sẽ xuất hiệ
 # Thông tin cập nhật #
 
 *đây không phải là phiên bản mới nhất, bản mới nhất sẽ được cập nhật tại web*
-
-`https://vinh40945-prog.github.io/VinhOS-6.1.2/`
 
 có thêm tính năng share
 
